@@ -21,5 +21,6 @@ some schematics
 ![a picture of the circuit in the falstad applet](images/falstad.png)
 my simulation in the falstad circuit simulation applet
 
-![a picture of the final render in KiCad's 3D viewer](images/3D-view.png)
-final pcb render!
+![a picture of the front final render in KiCad's 3D viewer](images/3D-view-front.png)
+![a picture of the back final render in KiCad's 3D viewer](images/3D-view-back.png)
+final pcb renders!
